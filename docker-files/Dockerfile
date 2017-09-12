@@ -1,0 +1,1 @@
+RUN curl https://bitbucket.org/AnilVunnava/srinsoft-poc/src/cab6ef384fd6b9b2d25a86f62e5082340e38d9e5/deployables/ticket-monster.war -o $JBOSS_HOME/standalone/deployments/ticket-monster.war
